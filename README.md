@@ -13,9 +13,11 @@ This project was built as part of my week 2 milestone while learning Python. It 
 
 1. Clone or download this repository.
 2. Run the script using:
+   
    ```bash
    python3 RandomNumberGame.py
    ```
-3. Try to guess the secret number.
-4. Play again. (Or don't. I'm not your mom.)
+   
+4. Try to guess the secret number.
+5. Play again. (Or don't. I'm not your mom.)
 This was my first full script. First time coder here. More coming soon!
